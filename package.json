@@ -1,0 +1,20 @@
+{
+    "name": "phani-CICD-pipeline",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2"
+    },
+    "devDependencies": {
+      "jest": "^27.0.0",
+      "supertest": "^7.0.0"
+    }
+  }
